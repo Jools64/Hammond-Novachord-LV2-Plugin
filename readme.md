@@ -22,4 +22,5 @@ I think you get the nicest sounds by turning the full tone and deep tone down an
 This repository also contains some files developed by others:
 - waf - A build script by Thomas Nagy, distributed with lv2 examples
 - threeband.c - A 3 band equalizer implementation by Neil C of Etanza Systems
+
 All retain their respective licences at the top of the source files
