@@ -1,10 +1,13 @@
 # Hammond Novachord LV2 Plugin
-By Julian Reid
+A small LV2 plugin by Julian Reid
+
+![Hammond Novachord Lv2 Plugin user interface](/../screenshots/screenshot.png?raw=true "Hammond Novachord LV2 Plugin")
 
 ## Foreword
 This is a small lv2 synthesizer plugin that I developed for a university project in 2016. The code is very messy as I was in a rush while developing it. There will be blocks of code that are no longer part of the project, unsafe C code, many TODOs and likely some bugs. Much of the implementation is very inefficient and would benefit from a lot of optimization and wide instruction set usage. I will probably come back and tidy up the code in the future however I am unlikely to add any more features.
 
 ## About
+
 This plugin is an attempt to recreate the sound of the Novachord synthesizer developed by Hammond around 1939. Unfortunately it probably is not very accurate as I did not have any access to a Novachord or high quality samples of a Novachord while developing it. My target sound was based on low quality recordings, circuit diagrams, the instrument manual and a traced waveform. Although not quite the signature Novachord sound, in my opinion it does still produce some quite cool, retro sounding synth voices!
 
 ## Usage
